@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://laotzu.ftp.acc.umu.se/mirror/lineageos/full/ginkgo/20211018/lineage-17.1-20211018-nightly-ginkgo-signed.zip
-  ROM_NAME: LineageOS
+  ROM_URL: https://link.ap1.storjshare.io/s/jvdxj4my7jehqseckc7p4427e76a/pixelexperience8a55844831018ff94dc3320e472ff3cb/laurel_sprout/PixelExperience_laurel_sprout-10.0-20201013-0952-OFFICIAL.zip?download
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
